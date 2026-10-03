@@ -1,4 +1,4 @@
 # PyPI interno de la organización (publicado por el equipo de la librería)
 --extra-index-url http://localhost:3141/team/staging/+simple/
 
-app-common-library>=1.0.1
+app-common-library>=1.0.2
